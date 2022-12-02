@@ -1,5 +1,5 @@
 # vue-calc
-Simple Calculator in Vue 3
+Simple Calculator on Vue 3
 
 ## Project setup
 ```
