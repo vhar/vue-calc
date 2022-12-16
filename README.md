@@ -1,6 +1,8 @@
 # vue-calc
 Simple Calculator on Vue 3
 
+Test it [HERE](https://euphonious-meerkat-94aba9.netlify.app/)
+
 ## Project setup
 ```
 npm install
